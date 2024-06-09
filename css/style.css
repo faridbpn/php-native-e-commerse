@@ -1,0 +1,119 @@
+.warna1 {
+    background-color: #876445;
+}
+
+.warna2 {
+    background-color: #CA965C;
+}
+
+.warna3 {
+    background-color: #EEC373;
+}
+
+.warna4 {
+    background-color: #F4DFBA;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/banner.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.list-kategori {
+    height: 250px;
+}
+
+.kategori-baju-pria {
+    background:linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/baju\ pria.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-baju-wanita {
+    background:linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/baju\ wanita.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-sepatu {
+    background:linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/sepatu.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: white;
+} 
+
+.no-decoration:hover {
+    color: #CA965C;
+}
+
+.text-harga {
+    font-size: 22px;
+    color: #CA965C;
+}
+
+.image-box {
+    height: 200px;
+} 
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.banner-produk {
+    height: 45vh;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/banner.jpg');
+    background-position: 50% 30%;
+}
+
+.produk-terkait-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.banner2 {
+    height: 80vh;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/banner.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
